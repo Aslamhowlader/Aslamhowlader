@@ -1,8 +1,12 @@
 <h1 align="center">🚀 Md Aslam Howlader</h1>
-<h3 align="center">Machine Learning Engineer | AI Researcher | Data Scientist | Competitive Programmer</h3>
+<h3 align="center">
+  <span style="background: linear-gradient(to right, #ff6a00, #ee0979); -webkit-background-clip: text; color: transparent;">
+    Machine Learning Engineer | AI Researcher | Data Scientist | Competitive Programmer
+  </span>
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&center=true&vCenter=true&width=650&lines=Building+AI+Systems;Machine+Learning+Engineer;Data+Science+Enthusiast;Future+AI+Researcher;Competitive+Programmer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=700&center=true&vCenter=true&width=700&lines=Building+AI+Systems;Machine+Learning+Engineer;Data+Science+Enthusiast;Future+AI+Researcher;Competitive+Programmer" />
 </p>
 
 <p align="center">
@@ -16,20 +20,31 @@
   <a href="https://scholar.google.com/citations?user=JZhJxXgAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/></a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aslamhowlader&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/aslamhowlader?label=Followers&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/stars/aslamhowlader?label=Stars&style=for-the-badge"/>
+</p>
+
 ---
 
 ## 👨‍💻 About Me
-🎓 Aspiring **Machine Learning Engineer & AI Researcher** with strong foundations in **Python, SQL, Data Structures, Algorithms, and Statistical Learning**.  
-🚀 Passionate about building **intelligent systems**, designing **data-driven solutions**, and contributing to **AI research and open-source communities**.  
-💡 Focused on **industry-grade ML systems**, **deep learning pipelines**, and **real-world AI deployment**.
+<p style="text-align: justify;">
+🎓 Aspiring <b>Machine Learning Engineer & AI Researcher</b> with strong foundations in <b>Python, SQL, Data Structures, Algorithms, and Statistical Learning</b>.  
+🚀 Passionate about building <b>intelligent systems</b>, designing <b>data-driven solutions</b>, and contributing to <b>AI research & open-source communities</b>.  
+💡 Focused on <b>industry-grade ML systems</b>, <b>deep learning pipelines</b>, and <b>real-world AI deployment</b>.
+</p>
 
 ---
 
 ## 🎯 Current Mission
-- 🚀 Building **end-to-end Machine Learning & AI systems**
-- 📚 Mastering **Deep Learning, Transformers, and MLOps**
-- 🔬 Researching **Computer Vision, NLP, and Predictive Modeling**
-- 🤝 Open to **internships, research collaborations & open-source projects**
+<div align="center">
+  <img src="https://img.shields.io/badge/ML-Pipelines-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Deep-Learning-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Computer-Vision-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NLP-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MLOps-cyan?style=for-the-badge"/>
+</div>
 
 ---
 
@@ -45,17 +60,19 @@
 </p>
 
 ### 🤖 Machine Learning & Data Science
-- Supervised & Unsupervised Learning  
-- Feature Engineering & Model Optimization  
-- Regression, Classification, Clustering  
-- Data Visualization & Statistical Analysis  
-- Model Evaluation & Performance Tuning  
+<div>
+  <p>Supervised Learning <img src="https://img.shields.io/badge/Expert-90%25-green"></p>
+  <p>Unsupervised Learning <img src="https://img.shields.io/badge/Intermediate-75%25-yellow"></p>
+  <p>Feature Engineering <img src="https://img.shields.io/badge/Advanced-85%25-orange"></p>
+  <p>Data Visualization <img src="https://img.shields.io/badge/Advanced-85%25-orange"></p>
+</div>
 
 ### 🧠 Deep Learning & AI
-- Neural Networks, CNNs, RNNs  
-- Transformers & NLP Models  
-- Computer Vision Pipelines  
-- Model Deployment & Inference  
+<div>
+  <p>Neural Networks <img src="https://img.shields.io/badge/Advanced-85%25-orange"></p>
+  <p>Transformers <img src="https://img.shields.io/badge/Intermediate-75%25-yellow"></p>
+  <p>Computer Vision <img src="https://img.shields.io/badge/Advanced-85%25-orange"></p>
+</div>
 
 ### 🛠️ Tools & Platforms
 <p align="left">
@@ -70,37 +87,61 @@
 ---
 
 ## 🚀 Featured Projects
-| Project | Tech Stack | Description |
-|---------|------------|-------------|
-| AI House Price Predictor | Python, ML | End-to-end ML pipeline, regression modeling |
-| Sales Intelligence Dashboard | Python, Pandas | Business analytics & visualization |
-| Student Management System | SQL | Database design & CRUD operations |
-| Spam Detection System | Python, NLP | Text preprocessing & ML classification |
-| Face Recognition System | Python, OpenCV | Deep learning embeddings & deployment |
+<table align="center">
+<tr>
+<td align="center">
+<b>AI House Price Predictor</b><br>
+<img src="https://img.shields.io/badge/ML-Python-blue" /><br>
+End-to-end ML pipeline, regression modeling
+</td>
+<td align="center">
+<b>Sales Intelligence Dashboard</b><br>
+<img src="https://img.shields.io/badge/Data%20Viz-Pandas-orange" /><br>
+Business Analytics & visualization
+</td>
+</tr>
+<tr>
+<td align="center">
+<b>Student Management System (SQL)</b><br>
+<img src="https://img.shields.io/badge/SQL-Database-green" /><br>
+Database design & CRUD operations
+</td>
+<td align="center">
+<b>Spam Detection System (NLP)</b><br>
+<img src="https://img.shields.io/badge/NLP-Text-blue" /><br>
+Text preprocessing & classification
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+<b>Face Recognition System (CV)</b><br>
+<img src="https://img.shields.io/badge/Computer%20Vision-OpenCV-red" /><br>
+Deep learning embeddings & deployment
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics & Trophies
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aslamhowlader&show_icons=true&theme=tokyonight&border_radius=15" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aslamhowlader&layout=compact&theme=tokyonight&border_radius=15" height="180"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aslamhowlader&theme=tokyonight&border_radius=15" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=aslamhowlader&show_icons=true&theme=tokyonight&border_radius=15" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aslamhowlader&layout=compact&theme=tokyonight&border_radius=15" height="180"/>
 </p>
 
----
-
-## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aslamhowlader&theme=algolia&no-frame=true&row=1&column=7"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aslamhowlader&theme=tokyonight&border_radius=15" height="180"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=aslamhowlader&theme=algolia&no-frame=true&row=1&column=7"/>
 </p>
 
 ---
 
 ## 🌍 Contribution Graph Snake Animation
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
