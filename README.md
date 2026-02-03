@@ -1,8 +1,12 @@
 <h1 align="center">🚀 Md Aslam Howlader</h1>
-<h3 align="center">Machine Learning Engineer | AI Researcher | Data Scientist | Competitive Programmer</h3>
+<h3 align="center">
+  <span style="background: linear-gradient(to right, #ff6a00, #ee0979); -webkit-background-clip: text; color: transparent;">
+    Machine Learning Engineer | AI Researcher | Data Scientist | Competitive Programmer
+  </span>
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&center=true&vCenter=true&width=700&lines=Building+AI+Systems;Machine+Learning+Engineer;Data+Science+Enthusiast;Future+AI+Researcher;Competitive+Programmer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=700&center=true&vCenter=true&width=700&lines=Building+AI+Systems;Machine+Learning+Engineer;Data+Science+Enthusiast;Future+AI+Researcher;Competitive+Programmer" />
 </p>
 
 <p align="center">
@@ -25,19 +29,22 @@
 ---
 
 ## 👨‍💻 About Me
-
-🎓 Aspiring **Machine Learning Engineer & AI Researcher** with strong foundations in **Python, SQL, Data Structures, Algorithms, and Statistical Learning**.  
-🚀 Passionate about building **intelligent systems**, designing **data-driven solutions**, and contributing to **AI research and open-source communities**.  
-💡 Focused on **industry-grade ML systems**, **deep learning pipelines**, and **real-world AI deployment**.
+<p style="text-align: justify;">
+🎓 Aspiring <b>Machine Learning Engineer & AI Researcher</b> with strong foundations in <b>Python, SQL, Data Structures, Algorithms, and Statistical Learning</b>.  
+🚀 Passionate about building <b>intelligent systems</b>, designing <b>data-driven solutions</b>, and contributing to <b>AI research & open-source communities</b>.  
+💡 Focused on <b>industry-grade ML systems</b>, <b>deep learning pipelines</b>, and <b>real-world AI deployment</b>.
+</p>
 
 ---
 
 ## 🎯 Current Mission
-
-- 🚀 Building **end-to-end Machine Learning & AI systems**  
-- 📚 Mastering **Deep Learning, Transformers, and MLOps**  
-- 🔬 Researching **Computer Vision, NLP, and Predictive Modeling**  
-- 🤝 Open to **internships, research collaborations & open-source projects**  
+<div align="center">
+  <img src="https://img.shields.io/badge/ML-Pipelines-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Deep-Learning-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Computer-Vision-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NLP-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MLOps-cyan?style=for-the-badge"/>
+</div>
 
 ---
 
@@ -79,83 +86,62 @@
 
 ---
 
-## 🏆 Achievements & Activities
-
-- 💡 Active **Competitive Programmer** on Codeforces  
-- 🧠 Continuous learner in **Machine Learning & AI Engineering**  
-- 📝 Technical content creator on **Facebook & YouTube**  
-- 🔬 AI Research enthusiast with interest in **applied ML & deep learning systems**
-
----
-
-## 🔬 Research & Publications
-
-📄 Google Scholar Profile:  
-👉 [Google Scholar](https://scholar.google.com/citations?user=JZhJxXgAAAAJ&hl=en)
-
----
-
 ## 🚀 Featured Projects
-
-<div align="center">
-<table>
+<table align="center">
 <tr>
 <td align="center">
 <b>AI House Price Predictor</b><br>
 <img src="https://img.shields.io/badge/ML-Python-blue" /><br>
-End-to-end ML pipeline, feature engineering, regression modeling
+End-to-end ML pipeline, regression modeling
 </td>
 <td align="center">
 <b>Sales Intelligence Dashboard</b><br>
 <img src="https://img.shields.io/badge/Data%20Viz-Pandas-orange" /><br>
-Python, Pandas, Data Visualization, Business Analytics
+Business Analytics & visualization
 </td>
 </tr>
 <tr>
 <td align="center">
 <b>Student Management System (SQL)</b><br>
 <img src="https://img.shields.io/badge/SQL-Database-green" /><br>
-Database design, CRUD operations
+Database design & CRUD operations
 </td>
 <td align="center">
 <b>Spam Detection System (NLP)</b><br>
 <img src="https://img.shields.io/badge/NLP-Text-blue" /><br>
-Text preprocessing, ML classification
+Text preprocessing & classification
 </td>
 </tr>
 <tr>
 <td align="center" colspan="2">
 <b>Face Recognition System (CV)</b><br>
 <img src="https://img.shields.io/badge/Computer%20Vision-OpenCV-red" /><br>
-OpenCV, deep learning embeddings, deployment
+Deep learning embeddings & deployment
 </td>
 </tr>
 </table>
-</div>
 
 ---
 
 ## 📊 GitHub Analytics & Trophies
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aslamhowlader&show_icons=true&theme=tokyonight&border_radius=15" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aslamhowlader&layout=compact&theme=tokyonight&border_radius=15" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=aslamhowlader&show_icons=true&theme=tokyonight&border_radius=15" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aslamhowlader&layout=compact&theme=tokyonight&border_radius=15" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aslamhowlader&theme=tokyonight&border_radius=15" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aslamhowlader&theme=tokyonight&border_radius=15" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aslamhowlader&theme=algolia&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=aslamhowlader&theme=algolia&no-frame=true&row=1&column=7"/>
 </p>
 
 ---
 
 ## 🌍 Contribution Graph Snake Animation
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
@@ -173,7 +159,6 @@ OpenCV, deep learning embeddings, deployment
 ---
 
 ## 💬 Developer Motto
-
 > ⭐ *"Designing intelligent systems that learn, adapt, and solve real-world problems through data, discipline, and deep learning."*
 
 ---
