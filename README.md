@@ -29,7 +29,7 @@ Aspiring **Machine Learning & AI Engineer** with strong foundations in **Python,
 ## 🧠 Technical Skills
 
 ### 🔹 Programming Languages
-- Python, C, C++, SQL
+- Python, C, C++, SQL,Java..
 
 ### 🔹 Data Science & ML
 - NumPy, Pandas, Matplotlib, Scikit-learn  
@@ -75,6 +75,7 @@ Aspiring **Machine Learning & AI Engineer** with strong foundations in **Python,
 ## 🛠️ Languages & Tools
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Java/java-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
