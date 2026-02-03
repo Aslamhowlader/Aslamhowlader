@@ -2,7 +2,7 @@
 <h3 align="center">Machine Learning Engineer | AI Researcher | Data Scientist | Competitive Programmer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&center=true&vCenter=true&width=650&lines=Building+AI+Systems;Machine+Learning+Engineer;Data+Science+Enthusiast;Future+AI+Researcher;Competitive+Programmer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&center=true&vCenter=true&width=700&lines=Building+AI+Systems;Machine+Learning+Engineer;Data+Science+Enthusiast;Future+AI+Researcher;Competitive+Programmer" />
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aslamhowlader&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=aslamhowlader&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
   <img src="https://img.shields.io/github/followers/aslamhowlader?label=Followers&style=for-the-badge"/>
   <img src="https://img.shields.io/github/stars/aslamhowlader?label=Stars&style=for-the-badge"/>
 </p>
@@ -34,14 +34,14 @@
 
 ## 🎯 Current Mission
 
-- 🚀 Building **end-to-end Machine Learning & AI systems**
-- 📚 Mastering **Deep Learning, Transformers, and MLOps**
-- 🔬 Researching **Computer Vision, NLP, and Predictive Modeling**
-- 🤝 Open to **internships, research collaborations & open-source projects**
+- 🚀 Building **end-to-end Machine Learning & AI systems**  
+- 📚 Mastering **Deep Learning, Transformers, and MLOps**  
+- 🔬 Researching **Computer Vision, NLP, and Predictive Modeling**  
+- 🤝 Open to **internships, research collaborations & open-source projects**  
 
 ---
 
-## 🧠 Core Technical Stack
+## 🧠 Technical Stack
 
 ### 🧩 Programming Languages
 <p align="left">
@@ -52,24 +52,20 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45"/>
 </p>
 
----
-
 ### 🤖 Machine Learning & Data Science
-- Supervised & Unsupervised Learning
-- Feature Engineering & Model Optimization
-- Regression, Classification, Clustering
-- Data Visualization & Statistical Analysis
-- Model Evaluation & Performance Tuning
-
----
+<div>
+  <p>Supervised Learning <img src="https://img.shields.io/badge/Expert-90%25-green"></p>
+  <p>Unsupervised Learning <img src="https://img.shields.io/badge/Intermediate-75%25-yellow"></p>
+  <p>Feature Engineering <img src="https://img.shields.io/badge/Advanced-85%25-orange"></p>
+  <p>Data Visualization <img src="https://img.shields.io/badge/Advanced-85%25-orange"></p>
+</div>
 
 ### 🧠 Deep Learning & AI
-- Neural Networks, CNNs, RNNs
-- Transformers & NLP Models
-- Computer Vision Pipelines
-- Model Deployment & Inference
-
----
+<div>
+  <p>Neural Networks <img src="https://img.shields.io/badge/Advanced-85%25-orange"></p>
+  <p>Transformers <img src="https://img.shields.io/badge/Intermediate-75%25-yellow"></p>
+  <p>Computer Vision <img src="https://img.shields.io/badge/Advanced-85%25-orange"></p>
+</div>
 
 ### 🛠️ Tools & Platforms
 <p align="left">
@@ -86,8 +82,8 @@
 ## 🏆 Achievements & Activities
 
 - 💡 Active **Competitive Programmer** on Codeforces  
-- 🧠 Continuous learner in **Machine Learning & AI Engineering**
-- 📝 Technical content creator on **Facebook & YouTube**
+- 🧠 Continuous learner in **Machine Learning & AI Engineering**  
+- 📝 Technical content creator on **Facebook & YouTube**  
 - 🔬 AI Research enthusiast with interest in **applied ML & deep learning systems**
 
 ---
@@ -95,34 +91,51 @@
 ## 🔬 Research & Publications
 
 📄 Google Scholar Profile:  
-👉 https://scholar.google.com/citations?user=JZhJxXgAAAAJ&hl=en  
-
-*(Working toward peer-reviewed AI & ML publications.)*
+👉 [Google Scholar](https://scholar.google.com/citations?user=JZhJxXgAAAAJ&hl=en)
 
 ---
 
 ## 🚀 Featured Projects
 
-> *(Replace with your real GitHub repo links)*
-
-- 🔹 **AI House Price Predictor**  
-  → End-to-end ML pipeline, feature engineering, regression modeling
-
-- 🔹 **Sales Intelligence Dashboard**  
-  → Python, Pandas, Data Visualization, Business Analytics
-
-- 🔹 **Student Management System (SQL)**  
-  → Database design, normalization, CRUD systems
-
-- 🔹 **Spam Detection System (NLP)**  
-  → Text preprocessing, ML classification, evaluation
-
-- 🔹 **Face Recognition System (CV)**  
-  → OpenCV, deep learning embeddings, deployment
+<div align="center">
+<table>
+<tr>
+<td align="center">
+<b>AI House Price Predictor</b><br>
+<img src="https://img.shields.io/badge/ML-Python-blue" /><br>
+End-to-end ML pipeline, feature engineering, regression modeling
+</td>
+<td align="center">
+<b>Sales Intelligence Dashboard</b><br>
+<img src="https://img.shields.io/badge/Data%20Viz-Pandas-orange" /><br>
+Python, Pandas, Data Visualization, Business Analytics
+</td>
+</tr>
+<tr>
+<td align="center">
+<b>Student Management System (SQL)</b><br>
+<img src="https://img.shields.io/badge/SQL-Database-green" /><br>
+Database design, CRUD operations
+</td>
+<td align="center">
+<b>Spam Detection System (NLP)</b><br>
+<img src="https://img.shields.io/badge/NLP-Text-blue" /><br>
+Text preprocessing, ML classification
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+<b>Face Recognition System (CV)</b><br>
+<img src="https://img.shields.io/badge/Computer%20Vision-OpenCV-red" /><br>
+OpenCV, deep learning embeddings, deployment
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
-## 📊 GitHub Analytics Dashboard
+## 📊 GitHub Analytics & Trophies
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aslamhowlader&show_icons=true&theme=tokyonight&border_radius=15" height="180"/>
@@ -132,10 +145,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aslamhowlader&theme=tokyonight&border_radius=15" height="180"/>
 </p>
-
----
-
-## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=aslamhowlader&theme=algolia&no-frame=true&row=1&column=7"/>
@@ -152,7 +161,6 @@
 ---
 
 ## 🌐 Connect With Me
-
 <p align="center">
 <a href="https://linkedin.com/in/md-aslam-howlader-263015329/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35"/></a>
 <a href="https://www.youtube.com/@MdAslamhowlader-v6n" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="35"/></a>
