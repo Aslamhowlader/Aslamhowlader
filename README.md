@@ -163,5 +163,5 @@ Deep learning embeddings & deployment
 
 ---
 
-🔥 **Status:** Actively building **AI systems, ML pipelines & research projects**  
+🔥 **Status:** Actively building & research projects**  
 🚀 **Goal:** Become a **World-Class AI Engineer & Researcher**
