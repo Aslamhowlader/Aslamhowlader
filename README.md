@@ -34,10 +34,10 @@
 
 ## 🎯 Current Mission
 
-- 🚀 Building **end-to-end Machine Learning & AI systems**  
-- 📚 Mastering **Deep Learning, Transformers, and MLOps**  
-- 🔬 Researching **Computer Vision, NLP, and Predictive Modeling**  
-- 🤝 Open to **internships, research collaborations & open-source projects**  
+- 🚀 Building **end-to-end Machine Learning & AI systems**
+- 📚 Mastering **Deep Learning, Transformers, and MLOps**
+- 🔬 Researching **Computer Vision, NLP, and Predictive Modeling**
+- 🤝 Open to **internships, research collaborations & open-source projects**
 
 ---
 
@@ -52,18 +52,24 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45"/>
 </p>
 
+---
+
 ### 🤖 Machine Learning & Data Science
-- Supervised & Unsupervised Learning  
-- Feature Engineering & Model Optimization  
-- Regression, Classification, Clustering  
-- Data Visualization & Statistical Analysis  
-- Model Evaluation & Performance Tuning  
+- Supervised & Unsupervised Learning
+- Feature Engineering & Model Optimization
+- Regression, Classification, Clustering
+- Data Visualization & Statistical Analysis
+- Model Evaluation & Performance Tuning
+
+---
 
 ### 🧠 Deep Learning & AI
-- Neural Networks, CNNs, RNNs  
-- Transformers & NLP Models  
-- Computer Vision Pipelines  
-- Model Deployment & Inference  
+- Neural Networks, CNNs, RNNs
+- Transformers & NLP Models
+- Computer Vision Pipelines
+- Model Deployment & Inference
+
+---
 
 ### 🛠️ Tools & Platforms
 <p align="left">
@@ -78,32 +84,46 @@
 ---
 
 ## 🏆 Achievements & Activities
+
 - 💡 Active **Competitive Programmer** on Codeforces  
-- 🧠 Continuous learner in **Machine Learning & AI Engineering**  
-- 📝 Technical content creator on **Facebook & YouTube**  
+- 🧠 Continuous learner in **Machine Learning & AI Engineering**
+- 📝 Technical content creator on **Facebook & YouTube**
 - 🔬 AI Research enthusiast with interest in **applied ML & deep learning systems**
 
 ---
 
 ## 🔬 Research & Publications
+
 📄 Google Scholar Profile:  
-👉 [Google Scholar](https://scholar.google.com/citations?user=JZhJxXgAAAAJ&hl=en)  
+👉 https://scholar.google.com/citations?user=JZhJxXgAAAAJ&hl=en  
+
 *(Working toward peer-reviewed AI & ML publications.)*
 
 ---
 
 ## 🚀 Featured Projects
+
 > *(Replace with your real GitHub repo links)*
 
-- 🔹 **AI House Price Predictor** – ML pipeline, regression modeling, feature engineering  
-- 🔹 **Sales Intelligence Dashboard** – Python, Pandas, Data Visualization  
-- 🔹 **Student Management System (SQL)** – Database design, CRUD operations  
-- 🔹 **Spam Detection System (NLP)** – Text preprocessing, ML classification  
-- 🔹 **Face Recognition System (CV)** – OpenCV, embeddings, deployment  
+- 🔹 **AI House Price Predictor**  
+  → End-to-end ML pipeline, feature engineering, regression modeling
+
+- 🔹 **Sales Intelligence Dashboard**  
+  → Python, Pandas, Data Visualization, Business Analytics
+
+- 🔹 **Student Management System (SQL)**  
+  → Database design, normalization, CRUD systems
+
+- 🔹 **Spam Detection System (NLP)**  
+  → Text preprocessing, ML classification, evaluation
+
+- 🔹 **Face Recognition System (CV)**  
+  → OpenCV, deep learning embeddings, deployment
 
 ---
 
 ## 📊 GitHub Analytics Dashboard
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aslamhowlader&show_icons=true&theme=tokyonight&border_radius=15" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aslamhowlader&layout=compact&theme=tokyonight&border_radius=15" height="180"/>
@@ -116,6 +136,7 @@
 ---
 
 ## 🏆 GitHub Trophies
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=aslamhowlader&theme=algolia&no-frame=true&row=1&column=7"/>
 </p>
@@ -123,6 +144,7 @@
 ---
 
 ## 🌍 Contribution Graph Snake Animation
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
@@ -130,6 +152,7 @@
 ---
 
 ## 🌐 Connect With Me
+
 <p align="center">
 <a href="https://linkedin.com/in/md-aslam-howlader-263015329/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35"/></a>
 <a href="https://www.youtube.com/@MdAslamhowlader-v6n" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="35"/></a>
@@ -142,6 +165,7 @@
 ---
 
 ## 💬 Developer Motto
+
 > ⭐ *"Designing intelligent systems that learn, adapt, and solve real-world problems through data, discipline, and deep learning."*
 
 ---
