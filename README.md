@@ -44,15 +44,15 @@
 
 ---
 
-## 🎯 Current Mission
-<div align="center">
-  <img src="https://img.shields.io/badge/ML-Pipelines-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Deep-Learning-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Computer-Vision-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/NLP-purple?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MLOps-cyan?style=for-the-badge"/>
-</div>
-
+🎯 Current Mission – Data Science / ML
+<div align="center"> <img src="https://img.shields.io/badge/Machine%20Learning-Pipelines-orange?style=for-the-badge&logo=scikitlearn&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Deep%20Learning-Neural%20Networks-blue?style=for-the-badge&logo=tensorflow&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Computer%20Vision-OpenCV-green?style=for-the-badge&logo=opencv&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/NLP-Transformers-purple?style=for-the-badge&logo=huggingface&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/MLOps-Deployment-cyan?style=for-the-badge&logo=docker&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Data-Engineering-yellow?style=for-the-badge&logo=apacheairflow&logoColor=black"/> 
+  <img src="https://img.shields.io/badge/Cloud-AWS-orange?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python&logoColor=white"/> </div>
 ---
 
 ## 🧠 Technical Stack
