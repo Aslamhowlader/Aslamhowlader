@@ -18,7 +18,7 @@
   <a href="https://www.facebook.com/profile.php?id=61572492673164"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
   <a href="https://x.com/Md_Aslam_03"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
   <a href="https://scholar.google.com/citations?user=JZhJxXgAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/></a>
-<a href="https://instagram.com/md_aslam_03">
+<a href="https://instagram.com/md_aslam_howlader">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
