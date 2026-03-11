@@ -24,7 +24,10 @@
 <a href="https://wa.me/8808******">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
-
+<a href="https://resonant-donut-233643.netlify.app/" target="_blank">
+  <img alt="Visit My Portfolio" 
+       src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
 </p>
 
 <p align="center">
