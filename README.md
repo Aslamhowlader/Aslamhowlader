@@ -40,6 +40,39 @@
 ---
 
 <div align="center">
+<div align="center">
+
+🎓 About Me
+
+</div>
+
+<br>
+
+<table align="center" border="1" cellpadding="10">
+
+  <tr>
+    <td>👤 Name</td>
+    <td>Aslam Howlader</td>
+  </tr>
+
+  <tr>
+    <td>📚 Study</td>
+    <td>Computer Science & Engineering</td>
+  </tr>
+
+  <tr>
+    <td>🌱 Focus</td>
+    <td>Learning & Self Improvement</td>
+  </tr>
+
+  <tr>
+    <td>🎯 Goal</td>
+    <td>Build a successful career</td>
+  </tr>
+
+</table>
+
+------------------------------------
 
 📚 All Technologies
 
