@@ -37,9 +37,12 @@
   <img src="https://img.shields.io/github/stars/aslamhowlader?label=Stars&style=for-the-badge"/>
 </p>
 
---------------------
 
-<h2 align="center">👨‍💻 About Me</h2>
+
+<h2 align="center"></h2>
+  
+  
+👨‍💻 About Me:
 
 <table align="center" border="1" cellpadding="12" cellspacing="0"
 style="border-collapse: collapse; border-radius: 12px; overflow: hidden;">
@@ -95,12 +98,16 @@ style="border-collapse: collapse; border-radius: 12px; overflow: hidden;">
 </tr>
 
 </table>
-------------------------------------
 
 
 
 
-### 🛠️ Tools & Platforms
+<h2 align="center">
+
+
+
+
+### 🛠️ Tools & Platforms:
 
 <table align="center">
 
