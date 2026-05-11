@@ -74,73 +74,185 @@
 
 ------------------------------------
 
-📚 All Technologies
-
-</div>
-
-<br>
-
-<table align="center" border="1" cellpadding="10">
-  <tr>
-    <th>Category</th>
-    <th>Technology</th>
-    <th>Status</th>
-  </tr>
-
-  <tr><td>Programming</td><td>Python</td><td>Learning</td></tr>
-  <tr><td>Programming</td><td>C</td><td>Learning</td></tr>
-  <tr><td>Programming</td><td>C++</td><td>Learning</td></tr>
-  <tr><td>Programming</td><td>Java</td><td>Learning</td></tr>
-
-  <tr><td>Mobile App Development</td><td>Flutter</td><td>Learning</td></tr>
-
-  <tr><td>Database</td><td>MySQL</td><td>Learning</td></tr>
-  <tr><td>Database</td><td>SQL</td><td>Learning</td></tr>
-
-  <tr><td>Data Structures</td><td>DSA</td><td>Learning</td></tr>
-
-  <tr><td>Artificial Intelligence</td><td>Machine Learning</td><td>Beginner</td></tr>
-
-  <tr><td>Web Basics</td><td>HTML</td><td>Basic</td></tr>
-  <tr><td>Web Basics</td><td>CSS</td><td>Learning</td></tr>
-</table>
-
-<br><br>
-
-<div align="center">
-
-
-
 
 
 
 ### 🛠️ Tools & Platforms
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" width="40"/>
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/CodeBlocks_logo.png" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="40"/>
-  
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="40"/>
-  <img src="https://img.icons8.com/color/48/power-bi.png" width="40"/>
-  
-  <img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" width="40"/>
-</p>
+<table align="center">
 
+<tr align="center">
 
+<td width="110">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50"/><br>
+<b>Git</b>
+</td>
 
+<td width="110">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50"/><br>
+<b>GitHub</b>
+</td>
 
+<td width="110">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50"/><br>
+<b>Linux</b>
+</td>
 
+<td width="110">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50"/><br>
+<b>Docker</b>
+</td>
 
+<td width="110">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="50"/><br>
+<b>Jupyter</b>
+</td>
 
-## 💬 Developer Motto
-> ⭐ *"Designing intelligent systems that learn, adapt, and solve real-world problems through data, discipline, and deep learning."*
+</tr>
 
+<tr align="center">
 
+<td>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/><br>
+<b>Python</b>
+</td>
 
+<td>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50"/><br>
+<b>C</b>
+</td>
+
+<td>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50"/><br>
+<b>C++</b>
+</td>
+
+<td>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50"/><br>
+<b>Java</b>
+</td>
+
+<td>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50"/><br>
+<b>MySQL</b>
+</td>
+
+</tr>
+
+<tr align="center">
+
+<td>
+<img src="https://img.icons8.com/fluency/96/sql.png" width="50"/><br>
+<b>SQL</b>
+</td>
+
+<td>
+<img src="https://img.icons8.com/color/96/flutter.png" width="50"/><br>
+<b>Flutter</b>
+</td>
+
+<td>
+<img src="https://img.icons8.com/color/96/artificial-intelligence.png" width="50"/><br>
+<b>AI / ML</b>
+</td>
+
+<td>
+<img src="https://img.icons8.com/color/96/data-configuration.png" width="50"/><br>
+<b>Data Science</b>
+</td>
+
+<td>
+<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/96/external-data-structures-computer-programming-flaticons-lineal-color-flat-icons.png" width="50"/><br>
+<b>DSA</b>
+</td>
+
+</tr>
+
+<tr align="center">
+
+<td>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50"/><br>
+<b>VS Code</b>
+</td>
+
+<td>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" width="50"/><br>
+<b>PyCharm</b>
+</td>
+
+<td>
+<img src="https://img.icons8.com/color/96/android-studio--v3.png" width="50"/><br>
+<b>Android Studio</b>
+</td>
+
+<td>
+<img src="https://img.icons8.com/color/96/intellij-idea.png" width="50"/><br>
+<b>IntelliJ</b>
+</td>
+
+<td>
+<img src="https://img.icons8.com/color/96/visual-studio--v2.png" width="50"/><br>
+<b>Visual Studio</b>
+</td>
+
+</tr>
+
+<tr align="center">
+
+<td>
+<img src="https://img.icons8.com/color/96/power-bi.png" width="50"/><br>
+<b>Power BI</b>
+</td>
+
+<td>
+<img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" width="50"/><br>
+<b>Excel</b>
+</td>
+
+<td>
+<img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" width="50"/><br>
+<b>XAMPP</b>
+</td>
+
+<td>
+<img src="https://img.icons8.com/color/96/api.png" width="50"/><br>
+<b>REST API</b>
+</td>
+
+<td>
+<img src="https://img.icons8.com/color/96/database.png" width="50"/><br>
+<b>DBMS</b>
+</td>
+
+</tr>
+
+<tr align="center">
+
+<td>
+<img src="https://img.icons8.com/color/96/cloud.png" width="50"/><br>
+<b>Cloud</b>
+</td>
+
+<td>
+<img src="https://img.icons8.com/color/96/machine-learning.png" width="50"/><br>
+<b>ML Models</b>
+</td>
+
+<td>
+<img src="https://img.icons8.com/color/96/notebook.png" width="50"/><br>
+<b>Notebook</b>
+</td>
+
+<td>
+<img src="https://img.icons8.com/color/96/binary-file.png" width="50"/><br>
+<b>Algorithms</b>
+</td>
+
+<td>
+<img src="https://img.icons8.com/color/96/calculator.png" width="50"/><br>
+<b>Math Tools</b>
+</td>
+
+</tr>
+
+</table>
