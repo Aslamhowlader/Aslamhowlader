@@ -37,41 +37,64 @@
   <img src="https://img.shields.io/github/stars/aslamhowlader?label=Stars&style=for-the-badge"/>
 </p>
 
----
+--------------------
 
-<div align="center">
-<div align="center">
+<h2 align="center">👨‍💻 About Me</h2>
 
-🎓 About Me
+<table align="center" border="1" cellpadding="12" cellspacing="0"
+style="border-collapse: collapse; border-radius: 12px; overflow: hidden;">
 
-</div>
+<tr style="background: #0f172a; color: white;">
+<th>Field</th>
+<th>Information</th>
+</tr>
 
-<br>
+<tr style="background: #f8fafc;">
+<td><b>Name</b></td>
+<td>Md Aslam Howlader</td>
+</tr>
 
-<table align="center" border="1" cellpadding="10">
+<tr style="background: #eef2ff;">
+<td><b>Title</b></td>
+<td>Competitive Programmer | Data Science Explorer | Aspiring AI/ML Engineer</td>
+</tr>
 
-  <tr>
-    <td>👤 Name</td>
-    <td>Aslam Howlader</td>
-  </tr>
+<tr style="background: #f8fafc;">
+<td><b>Education</b></td>
+<td>B.Sc in Computer Science & Engineering (BUBT)</td>
+</tr>
 
-  <tr>
-    <td>📚 Study</td>
-    <td>Computer Science & Engineering</td>
-  </tr>
+<tr style="background: #eef2ff;">
+<td><b>Interest</b></td>
+<td>Artificial Intelligence, Machine Learning, Data Science, Competitive Programming</td>
+</tr>
 
-  <tr>
-    <td>🌱 Focus</td>
-    <td>Learning & Self Improvement</td>
-  </tr>
+<tr style="background: #f8fafc;">
+<td><b>Skills</b></td>
+<td>Python, C, C++, Java, MySQL, SQL, Flutter</td>
+</tr>
 
-  <tr>
-    <td>🎯 Goal</td>
-    <td>Build a successful career</td>
-  </tr>
+<tr style="background: #eef2ff;">
+<td><b>Goal</b></td>
+<td>AI Engineer & Researcher</td>
+</tr>
+
+<tr style="background: #f8fafc;">
+<td><b>🏠 Address</b></td>
+<td>Kankdia, Buphal, Puthakhali, Bangladesh</td>
+</tr>
+
+<tr style="background: #eef2ff;">
+<td><b>🎓 University</b></td>
+<td>Bangladesh University of Business & Technology (BUBT)</td>
+</tr>
+
+<tr style="background: #f8fafc;">
+<td><b>🏫 School & College</b></td>
+<td>Kankdia Sir Solimullah School and College</td>
+</tr>
 
 </table>
-
 ------------------------------------
 
 
