@@ -45,27 +45,9 @@
 💡 Focused on <b>industry-grade ML systems</b>, <b>deep learning pipelines</b>, and <b>real-world AI deployment</b>.
 </p>
 
----
-
-
----
 
 
 
-### 🤖 Machine Learning & Data Science
-<div>
-  <p>Supervised Learning <img src="https://img.shields.io/badge/Expert-4%25-green"></p>
-  <p>Unsupervised Learning <img src="https://img.shields.io/badge/Intermediate-1%25-yellow"></p>
-  <p>Feature Engineering <img src="https://img.shields.io/badge/Advanced-5%25-orange"></p>
-  <p>Data Visualization <img src="https://img.shields.io/badge/Advanced-10%25-orange"></p>
-</div>
-
-### 🧠 Deep Learning & AI
-<div>
-  <p>Neural Networks <img src="https://img.shields.io/badge/Advanced-1%25-orange"></p>
-  <p>Transformers <img src="https://img.shields.io/badge/Intermediate-3%25-yellow"></p>
-  <p>Computer Vision <img src="https://img.shields.io/badge/Advanced-5%25-orange"></p>
-</div>
 
 ### 🛠️ Tools & Platforms
 <p align="left">
