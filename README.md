@@ -68,44 +68,7 @@
   <img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" width="40"/>
 </p>
 
----
 
-## 🚀 Featured Projects
-<table align="center">
-<tr>
-<td align="center">
-<b>AI House Price Predictor</b><br>
-<img src="https://img.shields.io/badge/ML-Python-blue" /><br>
-End-to-end ML pipeline, regression modeling
-</td>
-<td align="center">
-<b>Sales Intelligence Dashboard</b><br>
-<img src="https://img.shields.io/badge/Data%20Viz-Pandas-orange" /><br>
-Business Analytics & visualization
-</td>
-</tr>
-<tr>
-<td align="center">
-<b>Student Management System (SQL)</b><br>
-<img src="https://img.shields.io/badge/SQL-Database-green" /><br>
-Database design & CRUD operations
-</td>
-<td align="center">
-<b>Spam Detection System (NLP)</b><br>
-<img src="https://img.shields.io/badge/NLP-Text-blue" /><br>
-Text preprocessing & classification
-</td>
-</tr>
-<tr>
-<td align="center" colspan="2">
-<b>Face Recognition System (CV)</b><br>
-<img src="https://img.shields.io/badge/Computer%20Vision-OpenCV-red" /><br>
-Deep learning embeddings & deployment
-</td>
-</tr>
-</table>
-
----
 
 ## 📊 GitHub Analytics & Trophies
 <p align="center">
