@@ -2,7 +2,7 @@
 <h1 align="center"> Md Aslam Howlader</h1>
 <h3 align="center">
   <span style="background: linear-gradient(to right, #ff6a00, #ee0979); -webkit-background-clip: text; color: transparent;">
-   🚀Competitive Programmer | 📊 Data Science Explorer |🤖 Aspiring AI/ML
+   Competitive Programmer | Data Science Explorer | Aspiring AI/ML
   </span>
 </h3>
 
