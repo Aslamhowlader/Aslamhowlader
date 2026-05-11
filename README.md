@@ -71,45 +71,12 @@
 
 
 
-## 📊 GitHub Analytics & Trophies
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=aslamhowlader&show_icons=true&theme=tokyonight&border_radius=15" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aslamhowlader&layout=compact&theme=tokyonight&border_radius=15" height="180"/>
-</p>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aslamhowlader&theme=tokyonight&border_radius=15" height="180"/>
-</p>
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=aslamhowlader&theme=algolia&no-frame=true&row=1&column=7"/>
-</p>
 
----
-
-## 🌍 Contribution Graph Snake Animation
-<p align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
-
-## 🌐 Connect With Me
-<p align="center">
-<a href="https://linkedin.com/in/md-aslam-howlader-263015329/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35"/></a>
-<a href="https://www.youtube.com/@MdAslamhowlader-v6n" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="35"/></a>
-<a href="https://www.facebook.com/profile.php?id=61572492673164" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="35"/></a>
-<a href="https://x.com/Md_Aslam_03" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="35"/></a>
-<a href="https://codeforces.com/profile/aslam03" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="35"/></a>
-<a href="https://auth.geeksforgeeks.org/user/md_aslam_howlader" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="35"/></a>
-</p>
-
----
 
 ## 💬 Developer Motto
 > ⭐ *"Designing intelligent systems that learn, adapt, and solve real-world problems through data, discipline, and deep learning."*
 
----
 
-🔥 **Status:** Actively building & research projects**  
-🚀 **Goal:** Become a **World-Class AI Engineer & Researcher** more prophanal 
+
