@@ -1,8 +1,8 @@
 
-<h1 align="center">🚀 Md Aslam Howlader</h1>
+<h1 align="center"> Md Aslam Howlader</h1>
 <h3 align="center">
   <span style="background: linear-gradient(to right, #ff6a00, #ee0979); -webkit-background-clip: text; color: transparent;">
-   🚀Competitive Programmer | 📊 Data Science Explorer |🤖 Aspiring Machine Learning Engineer
+   🚀Competitive Programmer | 📊 Data Science Explorer |🤖 Aspiring AI/ML
   </span>
 </h3>
 
@@ -39,13 +39,104 @@
 
 ---
 
-## 👨‍💻 About Me
-<p style="text-align: justify;">
-🎓 Aspiring <b>Machine Learning Engineer & AI Researcher</b> with strong foundations in <b>Python, SQL, Data Structures, Algorithms, and Statistical Learning</b>.  
-🚀 Passionate about building <b>intelligent systems</b>, designing <b>data-driven solutions</b>, and contributing to <b>AI research & open-source communities</b>.  
-💡 Focused on <b>industry-grade ML systems</b>, <b>deep learning pipelines</b>, and <b>real-world AI deployment</b>.
-</p>
+<div align="center">
 
+📚 All Technologies
+
+</div>
+
+<br>
+
+<table align="center" border="1" cellpadding="10">
+  <tr>
+    <th>Category</th>
+    <th>Technology</th>
+    <th>Status</th>
+  </tr>
+
+  <tr><td>Programming</td><td>Python</td><td>Learning</td></tr>
+  <tr><td>Programming</td><td>C</td><td>Learning</td></tr>
+  <tr><td>Programming</td><td>C++</td><td>Learning</td></tr>
+  <tr><td>Programming</td><td>Java</td><td>Learning</td></tr>
+
+  <tr><td>Mobile App Development</td><td>Flutter</td><td>Learning</td></tr>
+
+  <tr><td>Database</td><td>MySQL</td><td>Learning</td></tr>
+  <tr><td>Database</td><td>SQL</td><td>Learning</td></tr>
+
+  <tr><td>Data Structures</td><td>DSA</td><td>Learning</td></tr>
+
+  <tr><td>Artificial Intelligence</td><td>Machine Learning</td><td>Beginner</td></tr>
+
+  <tr><td>Web Basics</td><td>HTML</td><td>Basic</td></tr>
+  <tr><td>Web Basics</td><td>CSS</td><td>Learning</td></tr>
+</table>
+
+<br><br>
+
+<div align="center">
+
+🎓 All Courses  
+Bangladesh University of Business & Technology (BUBT)
+
+</div>
+
+<br>
+
+<table align="center" border="1" cellpadding="10">
+  <tr>
+    <th>Course Code</th>
+    <th>Course Title</th>
+    <th>Semester</th>
+  </tr>
+
+  <tr><td>CSE 101</td><td>Structured Programming Language</td><td>Spring 2024</td></tr>
+  <tr><td>CSE 102</td><td>Structured Programming Language Lab</td><td>Spring 2024</td></tr>
+  <tr><td>MAT 101</td><td>Differential and Integral Calculus</td><td>Spring 2024</td></tr>
+  <tr><td>PHY 101</td><td>Physics</td><td>Spring 2024</td></tr>
+  <tr><td>PHY 102</td><td>Physics Lab</td><td>Spring 2024</td></tr>
+  <tr><td>ENG 101</td><td>English Language-I</td><td>Spring 2024</td></tr>
+  <tr><td>BEN 101</td><td>Functional Bengali</td><td>Spring 2024</td></tr>
+  <tr><td>BHC 101</td><td>History of Bangladesh</td><td>Spring 2024</td></tr>
+
+  <tr><td>CSE 103</td><td>Discrete Mathematics</td><td>Fall 2024</td></tr>
+  <tr><td>CSE 111</td><td>Object Oriented Programming</td><td>Fall 2024</td></tr>
+  <tr><td>CSE 112</td><td>OOP Lab</td><td>Fall 2024</td></tr>
+  <tr><td>CSE 100</td><td>Software Development I</td><td>Fall 2024</td></tr>
+  <tr><td>EEE 101</td><td>Electrical Technology</td><td>Fall 2024</td></tr>
+  <tr><td>EEE 102</td><td>Electrical Technology Lab</td><td>Fall 2024</td></tr>
+  <tr><td>MAT 111</td><td>Coordinate Geometry & Vector Calculus</td><td>Fall 2024</td></tr>
+  <tr><td>CHE 101</td><td>Chemistry</td><td>Fall 2024</td></tr>
+
+  <tr><td>CSE 205</td><td>Digital Logic Design</td><td>Spring 2025</td></tr>
+  <tr><td>CSE 206</td><td>Digital Logic Lab</td><td>Spring 2025</td></tr>
+  <tr><td>CSE 221</td><td>Data Structures</td><td>Spring 2025</td></tr>
+  <tr><td>CSE 222</td><td>Data Structures Lab</td><td>Spring 2025</td></tr>
+  <tr><td>ECO 201</td><td>Principles of Economics</td><td>Spring 2025</td></tr>
+  <tr><td>EEE 211</td><td>Electronic Devices & Circuits</td><td>Spring 2025</td></tr>
+  <tr><td>EEE 212</td><td>Electronics Lab</td><td>Spring 2025</td></tr>
+  <tr><td>MAT 221</td><td>Linear Algebra & Differential Equations</td><td>Spring 2025</td></tr>
+
+  <tr><td>CSE 200</td><td>Software Development II</td><td>Fall 2025</td></tr>
+  <tr><td>CSE 207</td><td>Database Systems</td><td>Fall 2025</td></tr>
+  <tr><td>CSE 208</td><td>Database Lab</td><td>Fall 2025</td></tr>
+  <tr><td>CSE 209</td><td>Operating Systems</td><td>Fall 2025</td></tr>
+  <tr><td>CSE 210</td><td>Operating Systems Lab</td><td>Fall 2025</td></tr>
+  <tr><td>CSE 215</td><td>Computer Architecture</td><td>Fall 2025</td></tr>
+  <tr><td>CSE 231</td><td>Algorithms</td><td>Fall 2025</td></tr>
+  <tr><td>CSE 232</td><td>Algorithms Lab</td><td>Fall 2025</td></tr>
+  <tr><td>MAT 231</td><td>Complex Variables & Statistics</td><td>Fall 2025</td></tr>
+
+  <tr><td>CSE 317</td><td>System Analysis & Design</td><td>Spring 2026</td></tr>
+  <tr><td>CSE 318</td><td>SAD Lab</td><td>Spring 2026</td></tr>
+  <tr><td>CSE 319</td><td>Computer Networks</td><td>Spring 2026</td></tr>
+  <tr><td>CSE 320</td><td>Computer Networks Lab</td><td>Spring 2026</td></tr>
+  <tr><td>CSE 321</td><td>Artificial Intelligence & Expert System</td><td>Spring 2026</td></tr>
+  <tr><td>CSE 322</td><td>AI Lab</td><td>Spring 2026</td></tr>
+  <tr><td>CSE 323</td><td>Compiler Design</td><td>Spring 2026</td></tr>
+  <tr><td>CSE 341</td><td>Advanced Programming</td><td>Spring 2026</td></tr>
+
+</table>
 
 
 
