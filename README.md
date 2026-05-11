@@ -47,27 +47,10 @@
 
 ---
 
-🎯 Current Mission – Data Science / ML
-<div align="center"> <img src="https://img.shields.io/badge/Machine%20Learning-Pipelines-orange?style=for-the-badge&logo=scikitlearn&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Deep%20Learning-Neural%20Networks-blue?style=for-the-badge&logo=tensorflow&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Computer%20Vision-OpenCV-green?style=for-the-badge&logo=opencv&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/NLP-Transformers-purple?style=for-the-badge&logo=huggingface&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/MLOps-Deployment-cyan?style=for-the-badge&logo=docker&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Data-Engineering-yellow?style=for-the-badge&logo=apacheairflow&logoColor=black"/> 
-  <img src="https://img.shields.io/badge/Cloud-AWS-orange?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python&logoColor=white"/> </div>
+
 ---
 
-## 🧠 Technical Stack
 
-### 🧩 Programming Languages
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45"/>
-</p>
 
 ### 🤖 Machine Learning & Data Science
 <div>
