@@ -287,3 +287,18 @@ style="border-collapse: collapse; border-radius: 12px; overflow: hidden;">
 </tr>
 
 </table>
+<p align="center">
+
+
+  <a href="https://github.com/Aslamhowlader/Data-Structures-and-Algorithms">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" 
+        srcset="https://readme-streak-stats-kaniz111.vercel.app/api/pin/?username=Aslamhowlader&repo=Data-Structures-and-Algorithms&theme=tokyonight&hide_border=true&description_lines_count=3"/>
+      <source media="(prefers-color-scheme: light)" 
+        srcset="https://readme-streak-stats-kaniz111.vercel.app/api/pin/?username=Aslamhowlader&repo=Data-Structures-and-Algorithms&theme=default&hide_border=false&description_lines_count=3"/>
+      <img width="47%" 
+        src="https://readme-streak-stats-kaniz111.vercel.app/api/pin/?username=Aslamhowlader&repo=Data-Structures-and-Algorithms&theme=default&hide_border=false&description_lines_count=3" 
+        alt="Repository Card Data Structures and Algorithms"/>
+    </picture>
+  </a>
+</p>
