@@ -43,12 +43,9 @@
 ## 🌐 Live Demo
 
 👉 **Click here to use the application**
+ 
 
-[![Open App](https://img.shields.io/badge/Launch-App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://aslamcse-0.streamlit.app/)
-
-
-
-<h2 align="center"></h2>
+[![🚀 Live App](https://img.shields.io/badge/🚀_Live_App-Linear_Regression-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://aslamcse-0.streamlit.app/)
   
   
 👨‍💻 About Me:
