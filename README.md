@@ -7,9 +7,14 @@
   </span>
 </h3>
 
-<p align="center">
+
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=700&center=true&vCenter=true&width=700&lines=Building+AI+Systems;Machine+Learning+Engineer;Data+Science+Enthusiast;Future+AI+Researcher;Competitive+Programmer" />
 </p>
+<p align="center">
+
+-----------------------------------------------------------------------------------------------------------------------------------
+  
+👉 Explore all my profiles and platforms
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aslam-howlader-263015329/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -25,10 +30,6 @@
 <a href="https://instagram.com/md_aslam_howlader">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 
-<a href="https://aslamcse-0.streamlit.app/">
-  <img src="https://img.shields.io/badge/Streamlit-Live_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-</a>
-
 
 <a href="https://wa.me/+8801703368450">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
@@ -39,7 +40,11 @@
 </a>
 </p>
 
+## 🌐 Live Demo
 
+👉 **Click here to use the application**
+
+[![Open App](https://img.shields.io/badge/Launch-App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://aslamcse-0.streamlit.app/)
 
 
 
