@@ -24,13 +24,12 @@
   <a href="https://scholar.google.com/citations?user=JZhJxXgAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/></a>
 <a href="https://instagram.com/md_aslam_howlader">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-<h2> Live Application</h2>
 
-<p>
-  <a href="https://aslamcse-0.streamlit.app/" target="_blank">
-    <img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" alt="Streamlit App">
-  </a>
-</p>
+<a href="https://aslamcse-0.streamlit.app/">
+  <img src="https://img.shields.io/badge/Streamlit-Live_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</a>
+
+
 <a href="https://wa.me/+8801703368450">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
@@ -40,11 +39,7 @@
 </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aslamhowlader&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/aslamhowlader?label=Followers&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/stars/aslamhowlader?label=Stars&style=for-the-badge"/>
-</p>
+
 
 
 
