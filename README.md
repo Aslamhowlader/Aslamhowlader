@@ -294,19 +294,28 @@ style="border-collapse: collapse; border-radius: 12px; overflow: hidden;">
 </table>
 <p align="center">
 
-## 📚 Repository Archive
+## 📚 My Public Repositories
 
-| Repository | Description |
-|------------|-------------|
-| [🤖 Artificial-Intelligence](https://github.com/Aslamhowlader/Artificial-Intelligence) | Artificial Intelligence algorithms, lab assignments, search techniques, and AI projects. |
-| [🧠 Machine-Learning](https://github.com/Aslamhowlader/Machine-Learning) | Machine Learning algorithms, preprocessing, model training, and evaluation. |
-| [💻 Data-Structures-and-Algorithms](https://github.com/Aslamhowlader/Data-Structures-and-Algorithms) | Data Structures, Algorithms, problem-solving, and coding interview preparation. |
-| [🐍 Python](https://github.com/Aslamhowlader/Python) | Python programming examples, practice problems, and projects. |
-| [☕ Java](https://github.com/Aslamhowlader/Java) | Java programming language concepts and object-oriented programming examples. |
-| [⚡ C](https://github.com/Aslamhowlader/C) | C programming fundamentals and problem-solving. |
-| [🚀 Cpp](https://github.com/Aslamhowlader/Cpp) | C++ programming, OOP, STL, and competitive programming solutions. |
-| [🗄️ Database-Management-System](https://github.com/Aslamhowlader/Database-Management-System) | SQL queries, database design, normalization, and DBMS lab work. |
-| [🌐 Computer-Network](https://github.com/Aslamhowlader/Computer-Network) | Networking concepts, socket programming, and networking labs. |
-| [💾 Operating-System](https://github.com/Aslamhowlader/Operating-System) | Operating System concepts, scheduling algorithms, and lab exercises. |
-| [📱 Software-Engineering](https://github.com/Aslamhowlader/Software-Engineering) | Software Engineering notes, UML, SDLC, and software projects. |
-| [📖 Compiler-Design](https://github.com/Aslamhowlader/Compiler-Design) | Compiler phases, lexical analysis, parsing, and compiler projects. |
+| 🚀 Repository | 📖 Description |
+|:---|:---|
+| 🤖 **[Artificial-Intelligence](https://github.com/Aslamhowlader/Artificial-Intelligence)** | Artificial Intelligence, Search Algorithms, Machine Learning, Lab Assignments & AI Projects. |
+| 📈 **[LinerRegressionApp](https://github.com/Aslamhowlader/LinerRegressionApp)** | Linear Regression application built with Python for predictive analysis. |
+| 🐍 **[Python-Programming](https://github.com/Aslamhowlader/Python-Programming)** | Python programming tutorials, notebooks, examples, and coding exercises. |
+| ☕ **[Java-programing](https://github.com/Aslamhowlader/Java-programing)** | Java programming concepts, Object-Oriented Programming, and projects. |
+| ⚡ **[Algorithm](https://github.com/Aslamhowlader/Algorithm)** | Common algorithms and competitive programming solutions. |
+| 💻 **[Data-Structures-and-Algorithms](https://github.com/Aslamhowlader/Data-Structures-and-Algorithms)** | Data Structures, Algorithms, and interview preparation resources. |
+| 📘 **[Notes-for-Professionals-many-subject](https://github.com/Aslamhowlader/Notes-for-Professionals-many-subject)** | Professional programming and computer science notes. |
+| 📚 **[All-BOOK-PDF](https://github.com/Aslamhowlader/All-BOOK-PDF)** | Collection of programming, engineering, and academic PDF books. |
+| 🏫 **[E-univarcity](https://github.com/Aslamhowlader/E-univarcity)** | Java-based University Management System project. |
+| 📝 **[java-All-Note](https://github.com/Aslamhowlader/java-All-Note)** | Complete Java notes, examples, and interview preparation. |
+| 🌾 **[Smart-Farming-project](https://github.com/Aslamhowlader/Smart-Farming-project)** | Smart Farming web application and IoT-related project. |
+| 📄 **[My_CV_resume](https://github.com/Aslamhowlader/My_CV_resume)** | Personal CV, resume, and portfolio documents. |
+| 🎓 **[Full-Syllabus](https://github.com/Aslamhowlader/Full-Syllabus)** | University course syllabus and study materials. |
+| 🐍 **[Modern-Snake-Game](https://github.com/Aslamhowlader/Modern-Snake-Game)** | Modern Snake Game developed with Python. |
+| 🧮 **[Calculator-using-Python-Tkinter](https://github.com/Aslamhowlader/Calculator-using-Python-Tkinter)** | GUI Calculator application using Python Tkinter. |
+| 🏛️ **[citezen-help-portal-project](https://github.com/Aslamhowlader/citezen-help-portal-project)** | Citizen Help Portal management system. |
+| 🗄️ **[Database_project](https://github.com/Aslamhowlader/Database_project)** | Database Management System project using Python and SQL concepts. |
+
+> 🌟 **View all repositories:** https://github.com/Aslamhowlader?tab=repositories
+
+
