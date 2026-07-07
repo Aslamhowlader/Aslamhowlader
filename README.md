@@ -307,3 +307,20 @@ style="border-collapse: collapse; border-radius: 12px; overflow: hidden;">
     </picture>
   </a>
 </p>
+<a href="https://github.com/Aslamhowlader/Artificial-Intelligence">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://readme-streak-stats-kaniz111.vercel.app/api/pin/?username=Aslamhowlader&repo=Artificial-Intelligence&theme=tokyonight&hide_border=true&description_lines_count=3"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://readme-streak-stats-kaniz111.vercel.app/api/pin/?username=Aslamhowlader&repo=Artificial-Intelligence&theme=default&hide_border=false&description_lines_count=3"
+    />
+    <img
+      width="47%"
+      src="https://readme-streak-stats-kaniz111.vercel.app/api/pin/?username=Aslamhowlader&repo=Artificial-Intelligence&theme=default&hide_border=false&description_lines_count=3"
+      alt="Repository Card Artificial Intelligence"
+    />
+  </picture>
+</a>
