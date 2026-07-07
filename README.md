@@ -294,33 +294,19 @@ style="border-collapse: collapse; border-radius: 12px; overflow: hidden;">
 </table>
 <p align="center">
 
+## 📚 Repository Archive
 
-  <a href="https://github.com/Aslamhowlader/Data-Structures-and-Algorithms">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" 
-        srcset="https://readme-streak-stats-kaniz111.vercel.app/api/pin/?username=Aslamhowlader&repo=Data-Structures-and-Algorithms&theme=tokyonight&hide_border=true&description_lines_count=3"/>
-      <source media="(prefers-color-scheme: light)" 
-        srcset="https://readme-streak-stats-kaniz111.vercel.app/api/pin/?username=Aslamhowlader&repo=Data-Structures-and-Algorithms&theme=default&hide_border=false&description_lines_count=3"/>
-      <img width="47%" 
-        src="https://readme-streak-stats-kaniz111.vercel.app/api/pin/?username=Aslamhowlader&repo=Data-Structures-and-Algorithms&theme=default&hide_border=false&description_lines_count=3" 
-        alt="Repository Card Data Structures and Algorithms"/>
-    </picture>
-  </a>
-</p>
-<a href="https://github.com/Aslamhowlader/Artificial-Intelligence">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://readme-streak-stats-kaniz111.vercel.app/api/pin/?username=Aslamhowlader&repo=Artificial-Intelligence&theme=tokyonight&hide_border=true&description_lines_count=3"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://readme-streak-stats-kaniz111.vercel.app/api/pin/?username=Aslamhowlader&repo=Artificial-Intelligence&theme=default&hide_border=false&description_lines_count=3"
-    />
-    <img
-      width="47%"
-      src="https://readme-streak-stats-kaniz111.vercel.app/api/pin/?username=Aslamhowlader&repo=Artificial-Intelligence&theme=default&hide_border=false&description_lines_count=3"
-      alt="Repository Card Artificial Intelligence"
-    />
-  </picture>
-</a>
+| Repository | Description |
+|------------|-------------|
+| [🤖 Artificial-Intelligence](https://github.com/Aslamhowlader/Artificial-Intelligence) | Artificial Intelligence algorithms, lab assignments, search techniques, and AI projects. |
+| [🧠 Machine-Learning](https://github.com/Aslamhowlader/Machine-Learning) | Machine Learning algorithms, preprocessing, model training, and evaluation. |
+| [💻 Data-Structures-and-Algorithms](https://github.com/Aslamhowlader/Data-Structures-and-Algorithms) | Data Structures, Algorithms, problem-solving, and coding interview preparation. |
+| [🐍 Python](https://github.com/Aslamhowlader/Python) | Python programming examples, practice problems, and projects. |
+| [☕ Java](https://github.com/Aslamhowlader/Java) | Java programming language concepts and object-oriented programming examples. |
+| [⚡ C](https://github.com/Aslamhowlader/C) | C programming fundamentals and problem-solving. |
+| [🚀 Cpp](https://github.com/Aslamhowlader/Cpp) | C++ programming, OOP, STL, and competitive programming solutions. |
+| [🗄️ Database-Management-System](https://github.com/Aslamhowlader/Database-Management-System) | SQL queries, database design, normalization, and DBMS lab work. |
+| [🌐 Computer-Network](https://github.com/Aslamhowlader/Computer-Network) | Networking concepts, socket programming, and networking labs. |
+| [💾 Operating-System](https://github.com/Aslamhowlader/Operating-System) | Operating System concepts, scheduling algorithms, and lab exercises. |
+| [📱 Software-Engineering](https://github.com/Aslamhowlader/Software-Engineering) | Software Engineering notes, UML, SDLC, and software projects. |
+| [📖 Compiler-Design](https://github.com/Aslamhowlader/Compiler-Design) | Compiler phases, lexical analysis, parsing, and compiler projects. |
