@@ -315,7 +315,9 @@ style="border-collapse: collapse; border-radius: 12px; overflow: hidden;">
 | 🧮 **[Calculator-using-Python-Tkinter](https://github.com/Aslamhowlader/Calculator-using-Python-Tkinter)** | GUI Calculator application using Python Tkinter. |
 | 🏛️ **[citezen-help-portal-project](https://github.com/Aslamhowlader/citezen-help-portal-project)** | Citizen Help Portal management system. |
 | 🗄️ **[Database_project](https://github.com/Aslamhowlader/Database_project)** | Database Management System project using Python and SQL concepts. |
-
+| 🐼 **[Pandas](https://github.com/Aslamhowlader/Pandas)** | Comprehensive tutorials, data manipulation, data analysis, and real-world examples using the Pandas library. |
+| 🔢 **[Numpy](https://github.com/Aslamhowlader/Numpy)** | Numerical computing, multidimensional arrays, mathematical operations, and scientific computing with NumPy. |
+| 📊 **[Matplotlib](https://github.com/Aslamhowlader/Matplotlib)** | Data visualization, charts, graphs, plotting techniques, and visualization examples using Matplotlib. |
 > 🌟 **View all repositories:** https://github.com/Aslamhowlader?tab=repositories
 
 
